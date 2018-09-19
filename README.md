@@ -14,7 +14,7 @@ pause-amd64:v3.1
 pause:v3.1
 flannel:v0.10.0-amd64
 
-heapster:v1.5.0
+heapster:v1.5.4
 kube-aggregator-amd64
 
 k8s-dns-sidecar-amd64:1.14.5
