@@ -3,17 +3,17 @@
 kubernetes 相关 images 同步
 
 ```bash
-etcd-amd64:3.2.18
+etcd-amd64:v3.2.18
 kube-apiserver-amd64:v1.11.0
 kube-controller-manager-amd64:v1.11.0
 kube-scheduler-amd64:v1.11.0
 kube-proxy-amd64:v1.11.0
-kubedns-amd64:v1.1.3
-pause-amd64:3.1
-pause:3.1
+kubedns-amd64:v1.9
+pause-amd64:v3.1
+pause:v3.1
 flannel:v0.10.0-amd64
 
-heapster v1.5.0
+heapster:v1.5.0
 kube-aggregator-amd64
 
 k8s-dns-sidecar-amd64:1.14.5
