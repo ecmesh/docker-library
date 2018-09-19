@@ -9,6 +9,7 @@ kube-controller-manager-amd64:v1.11.0
 kube-scheduler-amd64:v1.11.0
 kube-proxy-amd64:v1.11.0
 kubedns-amd64:v1.9
+coredns:v1.1.3
 pause-amd64:v3.1
 pause:v3.1
 flannel:v0.10.0-amd64
