@@ -10,7 +10,8 @@ kube-scheduler-amd64:v1.11.0
 kube-proxy-amd64:v1.11.0
 kubedns-amd64:v1.1.3
 pause-amd64:3.1
-
+pause:3.1
+flannel:v0.10.0-amd64
 
 heapster v1.5.0
 kube-aggregator-amd64
@@ -18,5 +19,9 @@ kube-aggregator-amd64
 k8s-dns-sidecar-amd64:1.14.5
 k8s-dns-kube-dns-amd64:1.14.5
 k8s-dns-dnsmasq-nanny-amd64:1.14.5
-flannel:v0.10.0-amd64
+
+
+k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
+
+
 ```
