@@ -12,7 +12,7 @@ kubedns-amd64:v1.9
 coredns:v1.1.3
 pause-amd64:v3.1
 pause:v3.1
-flannel:v0.10.0-amd64
+flannel-amd64:v0.10.0
 
 k8s.gcr.io/heapster-amd64:v1.5.4
 k8s.gcr.io/heapster-grafana-amd64:v5.0.4
