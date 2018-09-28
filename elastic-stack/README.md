@@ -23,7 +23,7 @@ docker rmi registry.cn-beijing.aliyuncs.com/ecmesh/elasticsearch-oss:6.4.0
 
 
 docker pull registry.cn-beijing.aliyuncs.com/ecmesh/kibana-oss:6.4.0
-docker tag registry.cn-beijing.aliyuncs.com/ecmesh/kibana/kibana-oss:6.4.0 docker.elastic.co/kibana/kibana-oss:6.4.0
+docker tag registry.cn-beijing.aliyuncs.com/ecmesh/kibana-oss:6.4.0 docker.elastic.co/kibana/kibana-oss:6.4.0
 docker rmi registry.cn-beijing.aliyuncs.com/ecmesh/kibana-oss:6.4.0
 
 
