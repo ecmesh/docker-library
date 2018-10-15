@@ -13,7 +13,7 @@ docker.elastic.co/logstash/logstash-oss:6.2.2
 
 
 
-#手工拉取镜像示例： 
+#手工拉取镜像： 
 ```bash
 
 docker pull registry.cn-beijing.aliyuncs.com/ecmesh/elasticsearch-oss:6.4.0
